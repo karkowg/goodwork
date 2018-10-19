@@ -22,8 +22,15 @@
         "vue"
     ],
     "globals": {
+        "axios": false,
         "document": false,
+        "Echo": false,
+        "EventBus": false,
+        "Laravel": false,
+        "luxon": false,
         "navigator": false,
+        "navbar": false,
+        "Vue": false,
         "window": false
     },
     "rules": {
